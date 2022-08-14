@@ -1,5 +1,5 @@
 <p>😁 Hi, my name is Kevin Setiawan.</p>
-<p>Soon to be graduating with a Bachelor's of Engineering in Electrical Engineering (2022).</p>
+<p>Just graduated with a Bachelor's of Engineering in Electrical Engineering (2022).</p>
 Lives in Tangerang Selatan. </p>
 <p>Has a passion in Tech Industry specifically all things related to computers, and also loves everything about finance. </p>
 <p>Interned as a Software Development Engineer in Test for DANA Indonesia, applying testing and coding skills for internship, and also learning lots of SDET tools.</p>
